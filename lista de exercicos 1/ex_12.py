@@ -1,7 +1,7 @@
 log = "Nicolas"
 password = "123"
 
-logconfirn = input("digite seu email :")
+logconfirn = input("digite seu login :")
 passconfirn = input("digite sua senha :")
 
 if logconfirn == log and passconfirn == password:
